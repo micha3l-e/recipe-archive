@@ -1,5 +1,7 @@
 html {
     font-family: 'Merriweather', serif;
+    color: #333333;
+    background-color: #f1f1f1;
 }
 
 h1 {
@@ -7,4 +9,21 @@ h1 {
     font-size: 2em;
     font-style: italic;
     font-family: 'Merriweather', serif;
+}
+
+a {
+    color: #4EA699;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #858AE3;
+}
+
+.recipe-image {
+    width: 500px;
+    height: 300px;
+    border-radius: 4px;
+    object-fit: cover;
+    object-position: 100% 70%;
 }
