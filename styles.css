@@ -120,4 +120,7 @@ a:hover {
         background-color: #fff;
     }
 
+    .recipe-image-container, .archive-image-container {
+        height: 220px;
+    }
 }
