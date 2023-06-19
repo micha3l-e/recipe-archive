@@ -90,6 +90,7 @@ ul, ol {
 ul {
     columns: 2;
     column-gap: 3em;
+    break-inside: avoid;
 }
 
 li {
