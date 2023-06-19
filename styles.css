@@ -158,4 +158,8 @@ width: 100%;    height: 400px;
 
     }
 
+    ul {
+        break-inside: avoid;
+    }
+
 }
